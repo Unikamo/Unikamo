@@ -50,5 +50,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Unikamo&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unikamo&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote cuz it looks good on a README
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
