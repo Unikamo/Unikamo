@@ -1,36 +1,36 @@
 # 💫 About Me:
 ```json
 {
-    “
-    username”: “Unikamo / Foxtrot”,
+    
+    "username”: “Unikamo / Foxtrot”,
     “country”: “France”,
     “languages”: {
-        “
-        french”: “Native”,
+        
+        "french”: “Native”,
         “english”: “C1”,
         “spanish”: “A2”,
         “ukrainian”: “A1”
     },
     “software”: {
-        “
-        01”: {
-            “
-            os”: “Arch Linux”,
+        
+        "01”: {
+            
+            "os”: “Arch Linux”,
             “wm”: “i3”,
             “terminal”: “kitty”,
             “editor”: “vi / vim / nvim”,
             “sh”: “zsh”
         },
         “02”: {
-            “
-            os”: “Windows 10(Not used)”,
+            
+            "os”: “Windows 10(Not used)”,
             “default”: “all”
         },
         “languages”: [“assembly”: “GAS / NASM x86_64”, “C”: {}]
     },
     “hardware”: {
-        “
-        ram”: “16 gb”,
+        
+        "ram”: “16 gb”,
         “resolution”: “1080 p 60 Hz”,
         “gpu”: “GTX 970 4 GB”,
         “cpu”: “intel core i5 4670 k @ 3.4 GHz”,
