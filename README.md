@@ -1,5 +1,47 @@
 # 💫 About Me:
-{<br>  "username": "Unikamo / Foxtrot",<br>  "country": "France",<br>  "languages": {<br>    "french": "Native",<br>    "english": "C1",<br>    "spanish": "A2",<br>    "ukrainian": "A1"<br>  },<br>  "software": {<br>    "01": {<br>      "os": "Arch Linux",<br>      "wm": "i3",<br>      "terminal": "kitty",<br>      "editor": "vi/vim/nvim",<br>      "sh": "zsh"<br>    },<br>    "02": {<br>      "os": "Windows 10 (Not used)",<br>      "default": "all"<br>    },<br>    "languages": [<br>      "assembly": "GAS/NASM x86_64",<br>      "C": {}<br>    ]<br>  },<br>  "hardware": {<br>    "ram": "16gb",<br>    "resolution": "1080p 60Hz",<br>    "gpu": "GTX 970 4GB",<br>    "cpu": "intel core i5 4670k @ 3.4GHz",<br>    "mb": "Asus H97-Pro",<br>    "keyboard": "HyperX Alloy Origins",<br>    "storage": [<br>      "HDD1": "Seagate Baracuda 1TB",<br>      "HDD2": "[EXTERNAL] Intenso 500GB",<br>      "SSD1": "ID/K"<br>    ]<br>  }<br>}
+
+```json
+{
+  “username”: “Unikamo / Foxtrot”,
+  “country”: “France”,
+  “languages”: {
+  “french”: “Native”,
+  “english”: “C1”,
+  “spanish”: “A2”,
+  “ukrainian”: “A1”
+},
+  “software”: {
+    “01”: {
+      “os”: “Arch Linux”,
+      “wm”: “i3”,
+      “terminal”: “kitty”,
+      “editor”: “vi/vim/nvim”,
+      “sh”: “zsh”
+},
+    “02”: {
+      “os”: “Windows 10 (Not used)”,  
+      “default”: “all”
+},
+  “languages”: [
+    “assembly”: “GAS/NASM x86_64”,
+    “C”: {}
+  ]
+},
+  “hardware”: {
+    “ram”: “16gb”,
+    “resolution”: “1080p 60Hz”,
+    “gpu”: “GTX 970 4GB”,
+    “cpu”: “intel core i5 4670k @ 3.4GHz”,
+    “mb”: “Asus H97-Pro”,
+    “keyboard”: “HyperX Alloy Origins”,
+    “storage”: [
+      “HDD1”: “Seagate Baracuda 1TB”,
+      “HDD2”: “[EXTERNAL] Intenso 500GB”,
+      “SSD1”: “ID/K”
+    ]
+  }
+}
+```
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
