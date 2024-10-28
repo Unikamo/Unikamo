@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ```json
 {
     "username": "Unikamo / Foxtrot",
