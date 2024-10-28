@@ -1,45 +1,43 @@
 # 💫 About Me:
-
 ```json
 {
-  “username”: “Unikamo / Foxtrot”,
-  “country”: “France”,
-  “languages”: {
-  “french”: “Native”,
-  “english”: “C1”,
-  “spanish”: “A2”,
-  “ukrainian”: “A1”
-},
-  “software”: {
-    “01”: {
-      “os”: “Arch Linux”,
-      “wm”: “i3”,
-      “terminal”: “kitty”,
-      “editor”: “vi/vim/nvim”,
-      “sh”: “zsh”
-},
-    “02”: {
-      “os”: “Windows 10 (Not used)”,  
-      “default”: “all”
-},
-  “languages”: [
-    “assembly”: “GAS/NASM x86_64”,
-    “C”: {}
-  ]
-},
-  “hardware”: {
-    “ram”: “16gb”,
-    “resolution”: “1080p 60Hz”,
-    “gpu”: “GTX 970 4GB”,
-    “cpu”: “intel core i5 4670k @ 3.4GHz”,
-    “mb”: “Asus H97-Pro”,
-    “keyboard”: “HyperX Alloy Origins”,
-    “storage”: [
-      “HDD1”: “Seagate Baracuda 1TB”,
-      “HDD2”: “[EXTERNAL] Intenso 500GB”,
-      “SSD1”: “ID/K”
-    ]
-  }
+    “
+    username”: “Unikamo / Foxtrot”,
+    “country”: “France”,
+    “languages”: {
+        “
+        french”: “Native”,
+        “english”: “C1”,
+        “spanish”: “A2”,
+        “ukrainian”: “A1”
+    },
+    “software”: {
+        “
+        01”: {
+            “
+            os”: “Arch Linux”,
+            “wm”: “i3”,
+            “terminal”: “kitty”,
+            “editor”: “vi / vim / nvim”,
+            “sh”: “zsh”
+        },
+        “02”: {
+            “
+            os”: “Windows 10(Not used)”,
+            “default”: “all”
+        },
+        “languages”: [“assembly”: “GAS / NASM x86_64”, “C”: {}]
+    },
+    “hardware”: {
+        “
+        ram”: “16 gb”,
+        “resolution”: “1080 p 60 Hz”,
+        “gpu”: “GTX 970 4 GB”,
+        “cpu”: “intel core i5 4670 k @ 3.4 GHz”,
+        “mb”: “Asus H97 - Pro”,
+        “keyboard”: “HyperX Alloy Origins”,
+        “storage”: [“HDD1”: “Seagate Baracuda 1 TB”, “HDD2”: “[EXTERNAL] Intenso 500 GB”, “SSD1”: “ID / K”]
+    }
 }
 ```
 
