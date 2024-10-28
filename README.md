@@ -14,7 +14,7 @@
             "os": "Arch Linux",
             "wm": "i3",
             "terminal": "kitty",
-            "editor": "vi / vim / nvim",
+            "editor": "vi/micro",
             "sh": "zsh"
         },
         "02": {
@@ -42,12 +42,18 @@
 }
 
 ```
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Unikamo&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unikamo&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<p float="left">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Unikamo&theme=nord&hide_border=false&include_all_comits=true&count_private=false" />
+</p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unikamo&theme=nord&hide_border=false&include_all_commits=true&count_private=false&lang_count=5)
+
+## ⋙ Goal : Use my own wm and my own shell daily!
+
 
 ### ✍️ Random Dev Quote cuz it looks good on a README
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
