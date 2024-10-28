@@ -27,7 +27,7 @@
         ]
     },
     "hardware": {
-        "ram": "16 GB",
+        "ram": "16 GB DDR3",
         "resolution": "1080p 60 Hz",
         "gpu": "GTX 970 4 GB",
         "cpu": "Intel Core i5-4670K @ 3.4 GHz",
