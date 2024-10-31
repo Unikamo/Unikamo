@@ -15,7 +15,7 @@
             "wm": "i3",
             "terminal": "kitty",
             "editor": "vi/micro",
-            "sh": "zsh"
+            "sh": "nu"
         },
         "02": {
             "os": "Windows 10 (Not used)",
