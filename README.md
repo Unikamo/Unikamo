@@ -7,7 +7,6 @@
         "french": "Native",
         "english": "C1",
         "spanish": "A2",
-        "ukrainian": "A1"
     },
     "software": {
         "01": {
