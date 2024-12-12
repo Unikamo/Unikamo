@@ -2,6 +2,7 @@
 ```json
 {
     "username": "Unikamo / Foxtrot",
+    "discord_user": foxtrot1225,
     "country": "France",
     "languages": {
         "french": "Native",
