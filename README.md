@@ -36,7 +36,7 @@
         "storage": [
             "HDD1": "Seagate Barracuda 1 TB",
             "HDD2": "[EXTERNAL] Intenso 500 GB",
-            "SSD1": "ID / K"
+            "SSD1": "Samsung 870 Pro"
         ]
     }
 }
