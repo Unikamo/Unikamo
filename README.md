@@ -14,8 +14,8 @@
             "os": "Arch Linux",
             "wm": "i3",
             "terminal": "kitty",
-            "editor": "vi/micro",
-            "sh": "nu"
+            "editor": "vim",
+            "sh": "bash"
         },
         "02": {
             "os": "Windows 10 (Not used)",
