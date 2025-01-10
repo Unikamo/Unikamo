@@ -7,7 +7,6 @@
     "languages": {
         "french": "Native",
         "english": "C1",
-        "spanish": "A2",
     },
     "software": {
         "01": {
@@ -17,12 +16,8 @@
             "editor": "vim",
             "sh": "bash"
         },
-        "02": {
-            "os": "Windows 10 (Not used)",
-            "default": "all"
-        },
         "languages": [
-            "assembly": "GAS / NASM x86_64",
+            "assembly": "NASM",
             "C": {}
         ]
     },
@@ -31,13 +26,6 @@
         "resolution": "1080p 60 Hz",
         "gpu": "GTX 970 4 GB",
         "cpu": "Intel Core i5-4670K @ 3.4 GHz",
-        "mb": "Asus H97 - Pro",
-        "keyboard": "HyperX Alloy Origins",
-        "storage": [
-            "HDD1": "Seagate Barracuda 1 TB",
-            "HDD2": "[EXTERNAL] Intenso 500 GB",
-            "SSD1": "Samsung 870 Pro"
-        ]
     }
 }
 
