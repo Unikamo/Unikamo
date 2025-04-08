@@ -13,7 +13,7 @@
             "os": "Windows",
             "wm": "WWM",
             "terminal": "Windows Terminal",
-            "editor": '["vim", "vscode"]',
+            "editor": ["vim", "vscode"],
             "sh": "bash"
         },
         "languages": [
