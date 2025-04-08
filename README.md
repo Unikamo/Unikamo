@@ -10,22 +10,23 @@
     },
     "software": {
         "01": {
-            "os": "Arch Linux",
-            "wm": "i3",
-            "terminal": "kitty",
-            "editor": "vim",
+            "os": "Windows",
+            "wm": "WWM",
+            "terminal": "Windows Terminal",
+            "editor": '["vim", "vscode"]',
             "sh": "bash"
         },
         "languages": [
             "assembly": "NASM",
-            "C": {}
+            "C": {},
+            "Lua" : {}
         ]
     },
     "hardware": {
-        "ram": "16 GB DDR3",
+        "ram": "32 GB DDR5 @ 6000",
         "resolution": "1080p 60 Hz",
-        "gpu": "GTX 970 4 GB",
-        "cpu": "Intel Core i5-4670K @ 3.4 GHz",
+        "gpu": "RX 6750 XT 12GB",
+        "cpu": "AMD Ryzen 5 7500f 5GHz",
     }
 }
 
