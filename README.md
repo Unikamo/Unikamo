@@ -11,9 +11,16 @@
     "software": {
         "01": {
             "os": "Windows",
-            "wm": "WWM",
-            "terminal": "Windows Terminal",
-            "editor": ["vim", "vscode"],
+            "wm": "GlazeWM",
+            "terminal": "Alacritty",
+            "editor": "nvim",
+            "sh": "powershell"
+        },
+        "02": {
+            "os": "Arch Linux",
+            "wm": "Hyprland",
+            "terminal": "Kitty",
+            "editor": "vim",
             "sh": "bash"
         },
         "languages": [
@@ -24,9 +31,9 @@
     },
     "hardware": {
         "ram": "32 GB DDR5 @ 6000",
-        "resolution": "1080p 60 Hz",
+        "resolution": "1080p 180 Hz",
         "gpu": "RX 6750 XT 12GB",
-        "cpu": "AMD Ryzen 5 7500f 5GHz",
+        "cpu": "AMD Ryzen 5 7500F 5GHz",
     }
 }
 
